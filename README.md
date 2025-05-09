@@ -9,4 +9,4 @@ Aplikasi sederhana yang menampilkan informasi cuaca menggunakan data dari API cu
 
 ## 🖼️ Tampilan Aplikasi
 
-<img src="https://github.com/zikrizm/tugas_mp_uts_cuaca/raw/master/screenshots/home.jpeg" width="300" alt="Tampilan utama aplikasi">
+<img src="https://github.com/kenindra731/tugas_mp_uts_cuaca/raw/main/screenshots/home.jpeg" width="300" alt="Tampilan utama aplikasi">
